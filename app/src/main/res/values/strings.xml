@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Humiture Monitor</string>
+    <string name="hello_world">Started!</string>
+    <string name="hint_http">http://192.168.0.10</string>
+    <string name="hint_name">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_telephone">Telephone Number(Optional)</string>
+    <string name="remember_account">Remember Account</string>
+    <string name="button_login">Login</string>
+</resources>
